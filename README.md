@@ -8,7 +8,7 @@ Perfiles de GitHub do alumnado de **Aplicacións Web** da promoción 2023 - 2024
 * 04 [Gonzalez Dobarro, Nicolás](https://github.com/Nicolasgon2006)
 * 05 [Pereira Ferradás, Esteban](https://github.com/dokkanman1)
 * 06 [Enjamio Lareo, David](https://github.com/deivis724)
-* 07 []()
+* 07 [Cebeiro Cabo Tomás](https://github.com/tomascebeiro)
 * 08 [Vázquez Rodríguez, Dani](https://github.com/tomatefrito)
 * 09 []()
 * 10 []()
