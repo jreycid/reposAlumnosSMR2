@@ -10,7 +10,7 @@ Perfiles de GitHub do alumnado de **Aplicacións Web** da promoción 2023 - 2024
 * 06 [Enjamio Lareo, David](https://github.com/deivis724)
 * 07 [Cebeiro Cabo Tomás](https://github.com/tomascebeiro)
 * 08 [Vázquez Rodríguez, Dani](https://github.com/tomatefrito)
-* 09 []()
+* 09 [Abelleira López, Hugo](https://github.com/Hugogub)
 * 10 []()
 * 11 []()
 * 12 []()
