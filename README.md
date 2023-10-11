@@ -2,7 +2,7 @@
 
 Perfiles de GitHub do alumnado de **Aplicacións Web** da promoción 2023 - 2024 do **IES Ramón Mª Aller Ulloa**.
 
-* 01 [Apelido1 Apelido2, Nome](https://github.com/xxx...)
+* 01 [López Leite, Elias](https://github.com/eliaslopez51)
 * 02 [Pazos Sieiro, Gabriel](https://github.com/retr0500)
 * 03 [Lisiecki, Radek](https://github.com/Raddek96)
 * 04 [Gonzalez Dobarro, Nicolás](https://github.com/Nicolasgon2006)
@@ -13,8 +13,4 @@ Perfiles de GitHub do alumnado de **Aplicacións Web** da promoción 2023 - 2024
 * 09 [Abelleira López, Hugo](https://github.com/Hugogub)
 * 10 [Soto Lourido, Gonzalo](https://github.com/gonzaloallerulloa/)
 * 11 [Lopez Perez, Adan](https://github.com/yadanlp/)
-* 12 []()
-* 13 []()
-* 14 []()
-* 15 [López Leite, Elias](https://github.com/eliaslopez51)
 
