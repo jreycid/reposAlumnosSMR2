@@ -12,9 +12,9 @@ Perfiles de GitHub do alumnado de **Aplicacións Web** da promoción 2023 - 2024
 * 08 [Vázquez Rodríguez, Dani](https://github.com/tomatefrito)
 * 09 [Abelleira López, Hugo](https://github.com/Hugogub)
 * 10 [Soto Lourido, Gonzalo](https://github.com/gonzaloallerulloa/)
-* 11 []()
+* 11 [Lopez Perez, Adan](https://github.com/yadanlp/)
 * 12 []()
 * 13 []()
 * 14 []()
-* 15 [López Leite, Elias](https://github.com/eliaslopez51)
+* 15 [Come Leite, Elias](https://github.com/eliaslopez51)
 
