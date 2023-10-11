@@ -16,5 +16,5 @@ Perfiles de GitHub do alumnado de **Aplicacións Web** da promoción 2023 - 2024
 * 12 []()
 * 13 []()
 * 14 []()
-* 15 [Come Leite, Elias](https://github.com/eliaslopez51)
+* 15 [López Leite, Elias](https://github.com/eliaslopez51)
 
