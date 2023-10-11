@@ -9,7 +9,7 @@ Perfiles de GitHub do alumnado de **Aplicacións Web** da promoción 2023 - 2024
 * 05 [Pereira Ferradás, Esteban](https://github.com/dokkanman1)
 * 06 [Enjamio Lareo, David](https://github.com/deivis724)
 * 07 []()
-* 08 []()
+* 08 [Vázquez Rodríguez, Dani](https://github.com/tomatefrito)
 * 09 []()
 * 10 []()
 * 11 []()
