@@ -5,7 +5,7 @@ Perfiles de GitHub do alumnado de **Aplicacións Web** da promoción 2023 - 2024
 * 01 [Apelido1 Apelido2, Nome](https://github.com/xxx...)
 * 02 [Pazos Sieiro, Gabriel](https://github.com/retr0500)
 * 03 [Lisiecki, Radek](https://github.com/Raddek96)
-* 04 [Gonzalez, Dobarro, Nicolás](https://github.com/Nicolasgon2006)
+* 04 [Gonzalez Dobarro, Nicolás](https://github.com/Nicolasgon2006)
 * 05 []()
 * 06 []()
 * 07 []()
